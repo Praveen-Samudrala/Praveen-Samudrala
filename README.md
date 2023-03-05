@@ -2,12 +2,12 @@
 <br>
 Welcome to my Github page!
 </h2>
-<h3>
-- 💻🌱 I'm a Masters Graduate in Applied AI @uOttawa, who loves learning, and working on Machine Learning & Data Science projects.</h3>
-<h3>
-- 👨‍💻🏢 Prior to Master's, I worked as a Data Scientist with MNC for almost 2 years, and almost 4 years of professional experience.</h3>
-<h3>
-- When I'm not coding, I'm capturing beauty in daily life📸 while having Coffee☕🍵.</h3>
+<h4>
+- 💻🌱 I'm a Masters Graduate in Applied AI @uOttawa, who loves learning, and working on Machine Learning & Data Science projects.</h4>
+<h4>
+- 👨‍💻🏢 Prior to Master's, I worked as a Data Scientist with MNC for almost 2 years, and almost 4 years of professional experience.</h4>
+<h4>
+- When I'm not coding, I'm capturing beauty in daily life📸 while having Coffee☕🍵.</h4>
 
 ---
 ## <p align="center"><b>💼 Technical Skills</b></p>
